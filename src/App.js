@@ -28,7 +28,7 @@ import User from './components/User';
             <div className="app">
               <div id="main-links">
                 <div id='links'>
-                  <Link to="/" className = "home-link">Home</Link>
+                  <Link to="/" className = "home-link">Users</Link>
                   <Link to="/catalog" className = "catalog-link">Catalog</Link>
                 </div>
                 <div id="logo">REFLIX</div>

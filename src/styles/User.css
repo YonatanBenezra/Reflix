@@ -4,13 +4,13 @@
 .home-link{
   height: 90vmin;
   color: #34495e;
-  text-shadow: -1px -1px 0 orange, 1px -1px 0 black, -1px 1px 0 purple, 1px 1px 0 purple;
+  text-shadow: -1px -1px 0 orange, 1px -1px 0 black
 }
 
 .catalog-link{
   height: 90vmin;
   color: #34495e;
-  text-shadow: -1px -1px 0 orange, 1px -1px 0 black, -1px 1px 0 purple, 1px 1px 0 purple;
+  text-shadow: -1px -1px 0 orange, 1px -1px 0 black
 }
 .Yonatan-logo {
   height: 40vmin;
@@ -63,4 +63,21 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Who {
+  position: absolute;
+  width: fit-content;
+  justify-self: center;
+}
+h3 {
+  position: absolute;
+  align-self: flex-start;
+  padding-top: 100px;
+}
+.jeremy {
+  left: 17.5vw;
+}
+.eden {
+  right: 17.5vw;
 }

@@ -1,68 +1,60 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Reflix 
 
-## Available Scripts
+Reflix is an online movie streamer for your days in quarantine :)
 
-In the project directory, you can run:
+Demo: [https://reflix-streamer.com/](https://reflix-streamer.herokuapp.com/)
 
-### `npm start`
+## Table Of Contents
+- [Reflix-Streamer](#reflix-streamer)
+  * [Running the project](#running-the-project)
+  * [Screenshots](#screenshots)
+    + [Reflix Users](#reflix-users)
+    + [Reflix Catalog](#reflix-catalog)
+    + [Reflix Movie](#reflix-movie)
+  * [Technologies](#technologies)
+    + [Client-Side](#client-side)
+    + [Server-Side](#server-side)
+  * [Whats Next](#whats-next)
+  
+## Running the project
+Preferably check the demo link :)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Otherwise:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+1. Clone the repo.
+2. Run `npm install`.
+4. Run `npm start`.
+5. Navigate to `http://localhost:3000`.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Reflix Users
+An overview of all your Users. You can choose who will be your masked avatar.
 
-### `npm run build`
+<p align="center"><img src="imagesForREADME/reflix-users.png" width="500" /></p>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Reflix Catalog
+All the movies you can buy, beware for spoilers in the description inside.
+You have the option to add the movie to your rented list or take it off,
+just dont go over you budget.
+<p align="center"><img src="imagesForREADME/reflix-catalog.png" width="500" /></p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Reflix Movie
+View a description of the movie.
+<p align="center"><img src="imagesForREADME/reflix-movie.png" width="500" /></p>
 
-### `npm run eject`
+## Technologies:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Client-side:
+* React.JS
+* Material-UI
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Server-side:
+* Node.JS
+* Express
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## What's next:
+1. Adding more parameters for filtering and searching.
+2. Movie suggestions based on watched list.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
