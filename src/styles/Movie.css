@@ -1,0 +1,14 @@
+.movie-img{
+    width:200px;
+    height: 200px;
+}
+
+.movie{
+    text-align: center;
+}
+p {
+    color: white;
+}
+h1, h2, h3, h4 {
+    color: white;
+}

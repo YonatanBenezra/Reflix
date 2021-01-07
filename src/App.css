@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+
+#main-links{
+  background-color: #282c34;
+  text-align: start
+}
+
+#logo{
+  text-align: end;
+  margin: 10px;
+}
+
+a{
+  margin:10px;
+  position: relative;
+  top:5px;
+} 
+
+
+#main-links{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+#catalog{
+  background-color:#282c34;
+}
