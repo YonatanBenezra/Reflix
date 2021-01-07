@@ -2,7 +2,7 @@
 
 Reflix is an online movie streamer for your days in quarantine :)
 
-Demo: [https://reflix-streamer.com/](https://reflix-streamer.herokuapp.com/)
+Demo: [reflix-streamer](https://reflix-streamer.herokuapp.com/)
 
 ## Table Of Contents
 - [Reflix-Streamer](#reflix-streamer)
@@ -31,18 +31,18 @@ Otherwise:
 ### Reflix Users
 An overview of all your Users. You can choose who will be your masked avatar.
 
-<p align="center"><img src="imagesForREADME/reflix-users.png" width="500" /></p>
+<p align="center"><img src="ImagesForReadMe/reflix-users.png" width="500" /></p>
 
 
 ### Reflix Catalog
 All the movies you can buy, beware for spoilers in the description inside.
 You have the option to add the movie to your rented list or take it off,
 just dont go over you budget.
-<p align="center"><img src="imagesForREADME/reflix-catalog.png" width="500" /></p>
+<p align="center"><img src="ImagesForReadMe/reflix-catalog.png" width="500" /></p>
 
 ### Reflix Movie
 View a description of the movie.
-<p align="center"><img src="imagesForREADME/reflix-movie.png" width="500" /></p>
+<p align="center"><img src="ImagesForReadMe/reflix-movie.png" width="500" /></p>
 
 ## Technologies:
 
