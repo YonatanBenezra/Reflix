@@ -2,7 +2,7 @@
 
 Reflix is an online movie streamer for your days in quarantine :)
 
-Demo: [https://reflix-streamer.com/](https://reflix-streamer.herokuapp.com/)
+Demo: [reflix-streamer](https://reflix-streamer.herokuapp.com/)
 
 ## Table Of Contents
 - [Reflix-Streamer](#reflix-streamer)
